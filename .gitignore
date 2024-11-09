@@ -1,0 +1,9 @@
+# Ignore the Vercel build output directory
+.vercel
+
+# Ignore the virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
